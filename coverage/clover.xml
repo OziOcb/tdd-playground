@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1591270261463" clover="3.2.0">
+  <project timestamp="1591270261463" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3" elements="32" coveredelements="32" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+    <file name="greeter.js" path="/Users/pozyzniewski/Code/02_Learning/01_Vue/tdd-kata-greeter/src/utils/greeter.js">
+      <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="19" count="16" type="stmt"/>
+      <line num="20" count="16" type="stmt"/>
+      <line num="22" count="16" type="stmt"/>
+      <line num="23" count="16" type="stmt"/>
+      <line num="25" count="16" type="stmt"/>
+      <line num="26" count="16" type="stmt"/>
+      <line num="28" count="16" type="stmt"/>
+      <line num="34" count="16" type="cond" truecount="4" falsecount="0"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="36" count="14" type="cond" truecount="4" falsecount="0"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="38" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="41" count="10" type="stmt"/>
+      <line num="44" count="16" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
